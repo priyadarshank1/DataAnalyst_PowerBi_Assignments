@@ -1,0 +1,4 @@
+1)	What are the various versions of Power BI?
+ans) 1. Power BI desktop
+     2. Power BI service
+     3. Mobile power BI apps for iOS and Android devices
